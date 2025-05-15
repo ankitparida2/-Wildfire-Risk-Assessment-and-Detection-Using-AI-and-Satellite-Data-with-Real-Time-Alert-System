@@ -1,0 +1,1 @@
+# -Wildfire-Risk-Assessment-and-Detection-Using-AI-and-Satellite-Data-with-Real-Time-Alert-System
